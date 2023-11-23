@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fire Dragon
+* source:	https://sketchfab.com/3d-models/fire-dragon-687b5d8bd6224ac5861c41935f0ff36b
+* author:	danmatos (https://sketchfab.com/danmatos)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fire Dragon" (https://sketchfab.com/3d-models/fire-dragon-687b5d8bd6224ac5861c41935f0ff36b) by danmatos (https://sketchfab.com/danmatos) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
